@@ -74,6 +74,7 @@ body {
   font-family: 'Sacramento', cursive;
   font-size: 3.2rem;
   font-weight: bold;
+  padding-right: 20px;
 }
 
 .mynavbar .nav-link {
